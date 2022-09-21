@@ -8,7 +8,7 @@ const Home = () => {
         <div>
             <div className="welcomeImages">
                 <img src="https://cdn.pixabay.com/photo/2018/08/16/08/39/hallstatt-3609863__340.jpg" alt=" " /> &nbsp;&nbsp;&nbsp;
-                <img src="https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&w=600" />
+                <img src="https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&w=600" alt=' ' />
             </div><br /><br />
             <div className="containsAllArticles">
                 <h2>The Best Tourist Place <hr className="hrInHome" /></h2>

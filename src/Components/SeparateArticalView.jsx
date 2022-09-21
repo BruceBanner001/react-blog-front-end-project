@@ -14,7 +14,7 @@ const SeparateArticalView = () => {
                 <div key={data[currentData].id}>
                     <div><h3 className="selectedTitle">{data[currentData].title}</h3></div>
                     <div className='selectedImage'>
-                        <img src={data[currentData].image} alt="Not Found" />
+                        <img src={data[currentData].image} alt=" " />
                     </div><br></br>
                     <div className="singlePageContent">
                         <div><p className="selectedDescription">{data[currentData].description}</p></div>

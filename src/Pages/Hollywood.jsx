@@ -16,7 +16,7 @@ const Hollywood = () => {
                                 <div className="leftSideContent">
                                     <div key={data.id}>
                                         <Link to={`/Hollywood/${data.id}`}>
-                                            <img src={data.image} alt='Not Found' className="imageLeftSide" />
+                                            <img src={data.image} alt=' ' className="imageLeftSide" />
                                         </Link>
                                         <div className="leftSideRight">
                                             <div><h3 className="titleLeftSide">{data.title}</h3></div>
@@ -39,7 +39,7 @@ const Hollywood = () => {
                                 <div className="rightSideContent">
                                     <div key={data.id}>
                                         <Link to={`/Hollywood/${data.id}`}>
-                                            <img src={data.image} alt='Not Found' className="imageRightSide" />
+                                            <img src={data.image} alt='' className="imageRightSide" />
                                         </Link>
                                         <div className="rightSideRight">
                                             <div><h3 className="titleRightSide">{data.title}</h3></div>
