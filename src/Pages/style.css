@@ -24,6 +24,7 @@
     /* border: 2px solid green; */
     width: 300px;
     height: 300px;
+    border-radius: 10px;
 }
 
 
@@ -81,6 +82,7 @@
 .imageRightSide {
     width: 150px;
     height: 150px;
+    border-radius: 10px;
 }
 
 .rightSideContent {
@@ -113,8 +115,16 @@
     justify-content: center;
 }
 
+
+
 /* Home Page  */
 
+.welcomeImage2{
+    width: 545px;
+}
+.welcomeImage{
+    border-radius: 15px;
+}
 .welcomeImages {
     display: flex;
 }
@@ -147,6 +157,7 @@ h2 {
 .imageInHomePage {
     width: 200px;
     height: 200px;
+border-radius: 10px;
 }
 
 .titleLeftSideInHome {

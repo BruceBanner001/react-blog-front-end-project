@@ -377,7 +377,7 @@ const StoredData = (props) => {
             Ukraine-born actress Mila Kunis and husband Ashton Kutcher pledged to match up to $3 million in donations, aiming to raise $30 million in total. In an update shared two days ago, Mila and Ashton revealed they were at $15 million, halfway to the goal. The funds raised will be donated to housing Ukrainian refugees, they said. Mila Kunis was born in Chernivitsi, southern Ukraine, in 1983 and moved to USA in 1991; "I have always considered myself an American, a proud American. ... But today, I have never been more proud to be a Ukrainian," she said in a video shared on Instagram. "I've never been more proud to be married to a Ukrainian," Ashton Kutcher added. The couple, who famously co-starred as Jackie and Kelso on That 70s Show, married in 2015.`
         },
         {
-            id: 3,
+            id: 31,
             title: "Masala dosa",
             image: "https://www.jacadatravel.com/wp-content/uploads/fly-images/316518/iStock-502019013-552x310-cc.jpg",
             category: "Food",

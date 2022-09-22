@@ -3,6 +3,10 @@
     justify-content: center;
 }
 
+.selectedImageOne {
+    border-radius: 15px;
+}
+
 .selectedTitle {
     text-align: center;
     font-family: "Roboto-Bold";

@@ -5,10 +5,10 @@ import { store } from "./StoredData";
 const Home = () => {
     const [data] = useContext(store);
     return (
-        <div>
+        <div><br /><br />
             <div className="welcomeImages">
-                <img src="https://cdn.pixabay.com/photo/2018/08/16/08/39/hallstatt-3609863__340.jpg" alt=" " /> &nbsp;&nbsp;&nbsp;
-                <img src="https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&w=600" alt=' ' />
+                <img src="https://cdn.pixabay.com/photo/2018/08/16/08/39/hallstatt-3609863__340.jpg" alt=" " className="welcomeImage" /> &nbsp;&nbsp;&nbsp;
+                <img src="https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&w=600" alt=' ' className="welcomeImage welcomeImage2" />
             </div><br /><br />
             <div className="containsAllArticles">
                 <h2>The Best Tourist Place <hr className="hrInHome" /></h2>
